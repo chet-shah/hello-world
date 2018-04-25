@@ -9,5 +9,4 @@ Most of my current work involves project based learning where I apply new techni
 
 Constructive feedback is always appreciated.
 
-Thanks
 Chet
