@@ -11,5 +11,5 @@ Constructive feedback is always appreciated.
 
 Chet
 
-PS. If Jupyter Notebooks fail to load please paste the GitHub url in the following link:
+PS. If Jupyter Notebooks fail to load please paste the url in the following link:
 https://nbviewer.jup
